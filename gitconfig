@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kpanayi7@gmail.com
+	name = Kyri Panayi
